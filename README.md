@@ -1,8 +1,16 @@
-# Hackathon DecolaKepler :rocket:
+# Hackathon Decola Kepler :rocket:
 ## Primeiro hackthon decola 2021 Iteris Consultoria
 <p align="justify"> Enfim 2021 e agora estou pronto para novos desafios, então estou dando suporte ao Hackathon Kepler 2021 </p>
 
-### Primeira aula: hello-world
+## Primeira aula: hello-world
+### - Novo componente
+### - If
+### - laço for
+### - Eventos
+### - Consumo de Api
+### - Contador
+
+<br>
 
 ## Project setup
 ```
