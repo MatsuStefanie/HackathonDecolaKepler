@@ -2,7 +2,11 @@
     <div class="teste-consumo-api">
         <h2> Sites favoritos</h2>
         <div v-for="site of sitesFavoritos" :key="site.id">
-                <button :href="site.link"> {{site.nome}} </button>
+            <button>
+                <a  :href="site.link"> 
+                    {{site.nome}} 
+                </a>
+            </button>
         </div> 
     </div>
 </template>

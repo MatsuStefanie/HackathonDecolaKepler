@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/octacatmatsu.png">
+  <img alt="Vue logo" src="./assets/octacatmatsu.png" class="logo">
   <HelloWorld msg="Seja bem vindo, welcome a new project in vue"/>
   <NovoComponente />
   <TesteIf />
@@ -41,5 +41,9 @@
     text-align: center;
     color: #2c3e50;
     margin-top: 60px;
+  }
+  .logo{
+    width: 100px;
+    height: 100px;
   }
 </style>
